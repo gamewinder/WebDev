@@ -1,2 +1,2 @@
 # gamewinder.github.io
-testing
+please go to gamewinder.github.io/index.html
